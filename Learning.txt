@@ -1,4 +1,4 @@
-
+I am committing in Main!
 
 Here is where I learn how to add files into a github repository and what that actually means.  
 
@@ -7,3 +7,4 @@ Oops! I forgot to say that this is my first officiail 'original' project without
 I am committing one more time to learn!
 
 I am committing once again..
+
