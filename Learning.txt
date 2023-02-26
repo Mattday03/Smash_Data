@@ -1,1 +1,3 @@
 Here is where I learn how to add files into a github repository and what that actually means.  
+
+Oops! I forgot to say that this is my first officiail project on my own... Here's to learning!
